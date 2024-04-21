@@ -16,3 +16,6 @@ def main():
         largest = find_largest(num1, num2, num3)
         st.write(f"The largest number is: {largest}")
 
+if _name_ == "_main_":
+    main()
+
